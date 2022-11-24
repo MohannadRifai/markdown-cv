@@ -1,0 +1,6 @@
+2022/11/24-16:17:38.118 caa Reusing MANIFEST /home/mohannad/snap/discord/145/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/24-16:17:38.118 caa Recovering log #4
+2022/11/24-16:17:38.119 caa Reusing old log /home/mohannad/snap/discord/145/.config/discord/Local Storage/leveldb/000004.log 
+2022/11/24-16:19:39.016 ddb Level-0 table #8: started
+2022/11/24-16:19:39.037 ddb Level-0 table #8: 1206212 bytes OK
+2022/11/24-16:19:39.042 ddb Delete type=0 #4

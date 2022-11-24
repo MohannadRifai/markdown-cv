@@ -1,0 +1,5 @@
+2022/11/24-11:51:35.454 12c4 Creating DB /home/mohannad/snap/discord/145/.config/discord/Local Storage/leveldb since it was missing.
+2022/11/24-11:51:35.464 12c4 Reusing MANIFEST /home/mohannad/snap/discord/145/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/24-13:24:15.394 1356 Level-0 table #5: started
+2022/11/24-13:24:15.410 1356 Level-0 table #5: 1211813 bytes OK
+2022/11/24-13:24:15.417 1356 Delete type=0 #3

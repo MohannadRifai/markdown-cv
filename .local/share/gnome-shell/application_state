@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="155" last-seen="1669236597"/>
+    <application id="org.gnome.Nautilus.desktop" score="18" last-seen="1669236358"/>
+    <application id="discord_discord.desktop" score="29" last-seen="1669299649"/>
+    <application id="gnome-initial-setup.desktop" score="13" last-seen="1669201913"/>
+    <application id="google-chrome.desktop" score="1276" last-seen="1669300108"/>
+    <application id="firefox_firefox.desktop" score="119" last-seen="1669209105"/>
+    <application id="org.gnome.Terminal.desktop" score="130" last-seen="1669300092"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1669208955"/>
+    <application id="sol.desktop" score="0" last-seen="1669207798"/>
+    <application id="gnome-control-center.desktop" score="25" last-seen="1669297773"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1669236532"/>
+    <application id="update-manager.desktop" score="190" last-seen="1669203249"/>
+    <application id="org.gnome.FileRoller.desktop" score="1" last-seen="1669213143"/>
+    <application id="code_code.desktop" score="7" last-seen="1669284993"/>
+  </context>
+</application-state>

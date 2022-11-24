@@ -1,0 +1,35 @@
+[Data Source]
+DisplayName=Address Book
+Enabled=true
+Parent=8b51b347c57d1cb00f7cdaa6b7c3c3584d422dfc
+
+[Authentication]
+Host=www.googleapis.com
+Method=OAuth2
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=mohannadalrifai7@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Resource]
+Identity=contacts::https://www.googleapis.com/carddav/v1/principals/mohannadalrifai7@gmail.com/lists/default/
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=Address Book
+EmailAddress=
+ResourcePath=/carddav/v1/principals/mohannadalrifai7@gmail.com/lists/default/
+ResourceQuery=
+SslTrust=
+Order=4294967295
+
+[Address Book]
+BackendName=carddav
+Order=0

@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=mohannadalrifai7@gmail.com
+Enabled=true
+Parent=8b51b347c57d1cb00f7cdaa6b7c3c3584d422dfc
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=mohannadalrifai7@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

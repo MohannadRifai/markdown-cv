@@ -1,0 +1,80 @@
+{
+   "checksum": "5ea34f798edf0b567179d0a85cc0c667",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313682719382113",
+            "date_last_used": "0",
+            "guid": "09e1ad79-88cd-426d-bee0-b16f5ff33753",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13313682719382660",
+            "date_last_used": "0",
+            "guid": "7586ac89-cdf3-466f-96ed-4b9d4bd06f12",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13313682719382952",
+            "date_last_used": "0",
+            "guid": "364f9875-20e5-4881-a121-9242032b3548",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13313682722745944",
+            "date_last_used": "0",
+            "guid": "af526030-c464-4ee9-b069-b8c0d1d29268",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         } ],
+         "date_added": "13313682674774127",
+         "date_last_used": "0",
+         "date_modified": "13313682722745944",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13313682674774129",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13313682674774132",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

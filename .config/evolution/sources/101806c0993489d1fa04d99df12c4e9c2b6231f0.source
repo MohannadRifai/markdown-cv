@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mohannadalrifai7@gmail.com
+Enabled=true
+Parent=8b51b347c57d1cb00f7cdaa6b7c3c3584d422dfc
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=31c5791ec7c0327ce53d8d5596f8e8755da9ce7a
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mohannadalrifai7@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
